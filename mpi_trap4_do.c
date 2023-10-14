@@ -1,3 +1,9 @@
+/**
+ * Javier Valle 20159
+ * Mario de León 19019
+ * 
+ */
+ 
 /* File:     mpi_trap4.c
  * Purpose:  Use MPI to implement a parallel version of the trapezoidal 
  *           rule. This version uses collective communications and
